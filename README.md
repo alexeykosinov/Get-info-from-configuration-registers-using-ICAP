@@ -1,2 +1,3 @@
 # Get-info-from-configuration-registers-using-ICAP
-Virtex-6
+Tested on Virtex-6 (ML605)
+Access to STAT, BOOTSTS and IDCODE configuration registers through ICAP
