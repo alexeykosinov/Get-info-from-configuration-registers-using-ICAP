@@ -1,0 +1,8 @@
+-uc ..\constrs\GTx.ucf
+-uc ..\constrs\System.ucf
+-uc ..\constrs\SPI.ucf
+-uc ..\constrs\UT8QNF8M8.ucf
+-uc ..\constrs\CDCE62005.ucf
+-uc ..\constrs\Timings.ucf
+-uc ..\constrs\Debug.ucf
+-uc ..\constrs\Optical_Interface.ucf

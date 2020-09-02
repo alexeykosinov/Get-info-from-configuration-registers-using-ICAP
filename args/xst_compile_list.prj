@@ -1,0 +1,4 @@
+vhdl work "../cores/icon0.vhd"
+vhdl work "../cores/vio0.vhd"
+vhdl work "../src/sysinfo.vhd"
+vhdl work "../top_sysinfo.vhd"
